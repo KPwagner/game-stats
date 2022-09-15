@@ -1,1 +1,1 @@
-# game-stats
+# Game Stats
